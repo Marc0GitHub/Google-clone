@@ -24,6 +24,7 @@ body {
 input {
     width: 70svw;
     max-width: 38rem;
+    min-width: 20rem;
     height: 2.5rem;
     border-radius: 50px;
     border: none;
@@ -45,10 +46,11 @@ input {
 
 .icon2  {
     position: absolute;
-    right: 8%;
+    right: 5%;
     top: 30%;
     color: rgb(92, 91, 91);
     cursor: pointer;
+    margin-right: 20px;
 }
 
 .icon3  {
